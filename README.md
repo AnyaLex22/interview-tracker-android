@@ -15,7 +15,7 @@ Project setup completed 🚧
 ## Database
 - Room Database (SQLite) - Planned
 
-##Architecture
+## Architecture
 - MVVM - Planned
 - Repository Pattern
 - Clean Architecture - light version
@@ -24,7 +24,7 @@ Project setup completed 🚧
 - Coroutines
 - Flow
 
-##Dependency Injection
+## Dependency Injection
 - Hilt
 
 ## MVP Features
